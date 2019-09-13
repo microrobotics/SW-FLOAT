@@ -1,4 +1,4 @@
-# Arduino Code Example
+// Arduino Code Example
 
 int ledPin = 10;         // LED Indicator
 int level_sensor = 7;    // Level Switch
